@@ -1,0 +1,15 @@
+Rally,Assemblage,Assembly,Clambake,Convention,Convocation,Meet,Session
+War,Battle,Bloodshed,Combat,Conflict,Fighting,Hostility,Strike,Struggle,Warfare,Contention,Contest,Enmity,Attack,Crisis,Crises,Bombing,Terror,Terrorist,Rebel,ISIS
+Civil,Domestic,Civilian,Governmental,Political,Public,UN,Politics,Ploy
+Assad,Syria,Syria
+Rise,Ascent,Boost,Growth,Hike,Progress,Advancement,Intensifying
+Embassy,Consulate,Ministry,Office
+Hit,Attack,Attacked,Blow,Clash,Impact,Shock
+Grenades,Grenade,Explosive,Explode,Missile,Firework,Weapon,Ammunition
+Domestic,Internal,National,Native,Municipal
+Document,Archive,Certificate,Diary,Evidence,Record,Paper,Testimony,Language,Page
+Refugees,Aliens,Emigrants,Foreigners,Expatriates,Renegades,Refugee,Alien,Emigrant,Foreigner,Expatriate,Renegade,Immigrants,Immigrations,Immigrate,Immigration,Immigrant,Escape
+Accept,Get,Obtaintake,Welcome,Acquire,Gain,Secure,Relief,Aid,Help,Camps,Camp,Humanitarian,Fund-raiser,Crowdfunding
+Airbnb,Kickstarter,Startup,Instacart,Tech,Technology,Companies,Company,Startups,Philanthropy,Starbucks,Firms
+U.S.,USA,US,United states of america
+

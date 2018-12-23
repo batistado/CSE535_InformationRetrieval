@@ -1,0 +1,21 @@
+news,politics
+donald trump,politics
+barack obama,politics
+adolf hitler,politics
+hillary clinton,politics
+crime,crime
+murder,crime
+steal,crime
+theft,crime
+thieve,crime
+politics,politics
+candidates,politics
+GOP,politics
+democracy,politics
+republicans,politics
+government,politics
+elections,politics
+rape,crime
+treason,crime
+riots,crime
+mob lynching,crime
